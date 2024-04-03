@@ -37,19 +37,5 @@ public class Main {
         System.out.println("\nHighest Grade: " + max);
         System.out.println("Class: " + highestClass);
         System.out.println("\n\nAverage: " + average);
-        //lowest
-        //int min = 0;
-        //for (int i = 0; i < grade.size(); i++) {
-            //min = grade.get(0);
-            //if(min > grade.get(i)) {
-                //min = grade.get(i);
-            //}
-        //}
-        //highest
-        System.out.println();
-        System.out.println();
-        //System.out.println("Number of classes: " + grade.size());
-       //System.out.println("Lowest grade: " + min);
-
     }
 }
